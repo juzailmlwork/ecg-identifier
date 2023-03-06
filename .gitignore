@@ -1,6 +1,6 @@
 mitbih_database/
 ecg-images/
-.ipynb_checkpoints
+**.ipynb_checkpoints
 ecg-gui/
 demonstration/models/bestmodelall.h5
 raw_mitbih dataset/
